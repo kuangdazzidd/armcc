@@ -1,0 +1,11 @@
+OBJ/stm32f10x_it.o: Source/stm32f10x_it.c
+OBJ/stm32f10x_it.o: Source/stm32f10x_it.h
+OBJ/stm32f10x_it.o: Source/FWLib/inc/stm32f10x_lib.h
+OBJ/stm32f10x_it.o: Source/FWLib/inc/stm32f10x_map.h
+OBJ/stm32f10x_it.o: Source\stm32f10x_conf.h
+OBJ/stm32f10x_it.o: Source/FWLib/inc/stm32f10x_type.h
+OBJ/stm32f10x_it.o: Source/FWLib/inc/cortexm3_macro.h
+OBJ/stm32f10x_it.o: Source/FWLib/inc/stm32f10x_flash.h
+OBJ/stm32f10x_it.o: Source/FWLib/inc/stm32f10x_gpio.h
+OBJ/stm32f10x_it.o: Source/FWLib/inc/stm32f10x_nvic.h
+OBJ/stm32f10x_it.o: Source/FWLib/inc/stm32f10x_rcc.h
